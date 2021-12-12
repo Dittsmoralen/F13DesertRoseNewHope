@@ -21,19 +21,19 @@ $include policy.txt
 # There are various options which are hard-locked for security reasons.
 
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'tgstation' with the name of your choice.
-# SERVERNAME Desert Rose 2
+@SERVERNAME [RU] Fallout 13 New Hope
 
 ## Server tagline: This will appear right below the server's title.
-# SERVERTAGLINE A generic TG-based server
+@SERVERTAGLINE Russian Unofficial Desert Rose https://discord.gg/uKt9Ep46Ez
 
 ## Server SQL name: This is the name used to identify the server to the SQL DB, distinct from SERVERNAME as it must be at most 32 characters.
-# SERVERSQLNAME fo13sql
+@SERVERSQLNAME rufo13nh
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
-STATIONNAME the Sonoran Wasteland
+@STATIONNAME Fallout New Hope
 
 ## Put on byond hub: Uncomment this to put your server on the byond hub.
-#HUB
+HUB
 
 ## Lobby time: This is the amount of time between rounds that players have to setup their characters and be ready.
 LOBBY_COUNTDOWN 160
@@ -216,7 +216,7 @@ VOTE_AUTOTRANSFER_MAXIMUM -1
 # DONT_DEL_NEWMOB
 
 ## set a hosted by name for unix platforms
-HOSTEDBY Yournamehere
+HOSTEDBY Dittsmoralen
 
 ## Set to jobban "Guest-" accounts from Captain, HoS, HoP, CE, RD, CMO, Warden, Security, Detective, and AI positions.
 ## Set to 1 to jobban them from those positions, set to 0 to allow them.
@@ -257,7 +257,7 @@ CHECK_RANDOMIZER
 # SERVER ss13.example.com:2506
 
 ## forum address
-# FORUMURL https://citadel-station.net/forum/
+# FORUMURL https://discord.gg/uKt9Ep46Ez
 
 ## Wiki address
 # WIKIURL https://katlin.dog/citadel-wiki
@@ -266,7 +266,7 @@ CHECK_RANDOMIZER
 # RULESURL https://katlin.dog/citadel-rules/main
 
 ## Github address
-# GITHUBURL https://github.com/Citadel-Station-13/Citadel-Station-13
+# GITHUBURL https://github.com/Dittsmoralen/F13DesertRoseNewHope
 
 ## Round specific stats address
 ## Link to round specific parsed logs; IE statbus. It is appended with the RoundID automatically by ticker/Reboot()
@@ -379,7 +379,7 @@ NOTIFY_NEW_PLAYER_ACCOUNT_AGE 1
 #PANIC_SERVER_NAME [Put the name here]
 
 ##Automated age verification, comment this out to not ask new users if they are 18+
-#AGE_VERIFICATION
+AGE_VERIFICATION
 
 ## Uncomment to have the changelog file automatically open when a user connects and hasn't seen the latest changelog
 #AGGRESSIVE_CHANGELOG
