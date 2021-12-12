@@ -1,42 +1,20 @@
 <!-- Most valid html will work in here, excluding images. -->
 
-<h1>Welcome to Desert Rose 2: Back to the Wasteland!</h1>
+<h1>Приветсвую вас на сервере Fallout 13!</h1>
 
-<b>This is an 18+ server, do not play if you are underage.</b>
+<b>Это неофицальный сервер, который был запущен на базе Desert Rose 2.</b>
 
 <i>
-<p>Don't be a dick, and <b>read the rules</b> before you play.</p>
+<p>Не будьте мудаками и <b>прочитайте правила</b> перед тем как начать играть.</p>
 
 <p>Welcome to the Rebase! We have transferred our code onto /tg/-based Citadel, bringing many updates with it.</p>
 
-<p>Development is active and we are always looking for more talent, we are open source and you can get involved via the links below.</p>
+<p>Создатель не умеет кодить, так, что я активно ищу талантливых кодеров, которые готовы помочь проекту.</p>
 
 <p>GitHub: https://github.com/DesertRose2/desertrose</p>
-<p>Discord: https://discord.gg/NGpP36m</p>
+<p>Discord: https://discord.gg/uKt9Ep46Ez</p>
 
 <p>Visit our forums for appeals, staff applications, and to apply for role whitelists!</p>
 <p>Forum: http://desertrosefallout13.boards.net/</p>
-<p>Whitelist Applications:  http://desertrosefallout13.boards.net/board/5/whitelist-applications</p>
+<p>Whitelist Applications:  Не нужно</p>
 
-<p>Patreon:</p>
-<p>https://www.patreon.com/desertrose2</p>
-
-<p>Patreon Supporters:</p>
-<pre>
-covertOddity
-WeebleTeebles
-Debonaircorsiar
-BubzBoop
-lovilove
-Gjorn
-Dr.Dreidel
-Cybersex
-Name00
-BurningCold
-Mexrex
-MintCookie
-Octus
-Vincieyork
-JimmyTombstone
-</pre>
-</i>
